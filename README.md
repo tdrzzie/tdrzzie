@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tdrzzie
+- 👋 Hi, I’m Nyasha Mandizvidza
 - 👀 I’m interested in Mobile Programming and Machine Learning
 - 🌱 I’m currently learning Flutter for Mobile Programming
 - 💞️ I’m looking to collaborate on Flutter Projects
