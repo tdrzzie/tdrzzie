@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nyasha Mandizvidza
-- 👀 I’m interested in Web, Mobile Programming and Data Analysis
+- 👀 I’m interested in Web, Mobile Programming and Data Analytics
 - 🌱 I’m currently learning Flutter for Mobile Programming
-- 💞️ I’m looking to collaborate on Java(Spring Boot), Javascript(React), Laravel and Flutter Projects
+- 💞️ I’m looking to collaborate on Java(Spring Boot), Javascript(React), Laravel, Python and Flutter Projects
 - 📫 How to reach me (Whatsapp +263778669438)
 
 <!---
